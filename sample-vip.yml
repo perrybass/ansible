@@ -6,9 +6,9 @@
 
   vars:
     provider:
-      password: admin
+      password: root
       server: localhost
-      user: admin
+      user: default
       validate_certs: no
       server_port: 443
 
